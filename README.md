@@ -1,8 +1,9 @@
 # Hi there! I'm Yiota 😊
 
-## 🙋‍♀️ About Me
+## 💻 About Me
 Full time employee as Sr. Learning & Development Officer @ [![Code.Hub](https://img.shields.io/badge/Code.Hub-Greece-orange?style=flat&logo=google-chrome)](https://www.codehub.gr/).  
-At the same time studying Computer Science (BSc) at Athens Tech College - York University European Campus  
+At the same time studying Computer Science (BSc) at [![Athens Tech College](https://img.shields.io/badge/Athens%20Tech%20College-blue?style=flat&logo=graduation-cap)](https://www.athtech.gr/)
+[![York University](https://img.shields.io/badge/York%20University-12217C?style=flat&logo=university&logoColor=white)](https://city.yorkeuropecampus.eu/)
 because understanding technology makes me better at what I do.
 
 I'm not here to be a developer. At least for now!
