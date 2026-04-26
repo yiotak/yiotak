@@ -11,9 +11,9 @@ I'm here to bridge the gap between people and technology.
 As we say @Code.Hub : "With People and Technology, we make our world better" 🎉
 
 ## 💼 What I actually Do as a Sr. L&D Officer
-- Design & manage Learning & Development programs
+- Design & manage Learning & Development training programs for upskilling and/or reskilling
 - Overview corporate trainings & bootcamps
-- Lead teams of L&D coordinators
+- Lead L&D coordinators
 - Optimize processes and workflows for corporate clients
 
 ## 🌱 Currently Learning
