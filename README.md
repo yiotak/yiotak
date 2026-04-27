@@ -26,7 +26,7 @@ I'm here to learn. To grow. And to give it all back to my team 🎉
 
 ## 🌱 Currently Learning
 - Java
-- SQL / Postgres
+- PostgreSQL
 - JavaScript & Node.js
 - Git & GitHub workflows
 - Software Development practices
