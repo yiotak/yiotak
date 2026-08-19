@@ -34,8 +34,7 @@ I'm here to learn. To grow. And to give it all back to my team 🎉
 - Git & GitHub workflows
 
 ## 🌟 What's Next
-When studies are done I would like to focus on:
--AI & Data and bring significant value to my team.
+When studies are done I would like to focus on AI & Data and bring significant value to my team.
 
 ## ⚡ Fun Fact
 It's never too late to learn something that seems overwhelming.
