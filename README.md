@@ -10,14 +10,13 @@ Because the best thing you can do for the people around you
 is to never stop growing yourself.
 
 🟣 None of the above would have been possible without someone who believed in me from the very first moment and saw my potential before I did. Forever grateful to this exceptional Leader 🫶 
-And equally grateful to the Tech Director of Athens Tech. Sharp mind, sharper humor, clearest eyes in the room. Different people, the same rare quality. 
-They make you want to be better, just by being around them.
+And equally grateful to the Head of CS Department in Athens Tech College. Sharp mind, sharper humor, clearest eyes in the room. Different people, the same rare quality. 
+They make you want to become better, just by being around them.
 
-🟣 Grateful to my manager for the continuous support and to my amazing team, 
-who steps up every time I step into a classroom!
+🟣 Grateful to my amazing team that steps up every time I step into a classroom!
 
-I'm not here to be a developer. At least not for now!
-I'm here to learn. To grow. And to give it all back to my team 🎉
+At the moment, I am not trying to become a developer.
+I'm here to learn. To grow. And all the knowledge I acquire, to give it all back to my team 🎉
 
 ## 🏢 What I actually Do as a Sr. L&D Officer
 - Manage Learning & Development training programs 
