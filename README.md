@@ -1,7 +1,7 @@
-# Hi there! I'm Yiota 😊
+# Hi there! I'm Yiota 😊 
 
 ## About Me
-Still learning. Still growing 🚀
+Still learning. Still growing ♾️
 
 Sr. Learning & Development Officer @ [![Code.Hub](https://img.shields.io/badge/Code.Hub-Greece-orange?style=flat&logo=google-chrome)](https://www.codehub.gr/), studying Computer Science (BSc) at [![Athens Tech College](https://img.shields.io/badge/Athens%20Tech%20College-blue?style=flat&logo=graduation-cap)](https://www.athtech.gr/)
 [![York University](https://img.shields.io/badge/York%20University-12217C?style=flat&logo=university&logoColor=white)](https://city.yorkeuropecampus.eu/)
@@ -26,18 +26,16 @@ I'm here to learn. To grow. And to give it all back to my team 🎉
 - Optimize processes and workflows for internal team & corporate clients
 
 ## 🌱 Currently Learning
-- Java
-- PostgreSQL
-- JavaScript & Node.js
+- Python basics
+- Hugging Face
+- Neo4j
+- Chroma DB
+- Stream lit
 - Git & GitHub workflows
-- Software Development practices
 
-
-## 🎓 What's Next
+## 🌟 What's Next
 When studies are done I would like to focus on:
-- SQL / PostgreSQL
-- Power BI
-- Business Informatics
+-AI & Data and bring significant value to my team.
 
 ## ⚡ Fun Fact
 It's never too late to learn something that seems overwhelming.
