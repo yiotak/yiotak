@@ -39,9 +39,6 @@ When studies are done I would like to focus on AI & Data and bring significant v
 It's never too late to learn something that seems overwhelming.
 All you need is the will, the right person to believe in you and a lot of coffee 😎☕
 
-## 📊 GitHub Stats
-![Yiota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yiotak&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yiota%20Kassi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yiotakassi/)
 
