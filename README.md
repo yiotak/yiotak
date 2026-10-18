@@ -9,9 +9,12 @@ Sr. Learning & Development Officer @ [![Code.Hub](https://img.shields.io/badge/C
 Because the best thing you can do for the people around you
 is to never stop growing yourself.
 
-🟣 None of the above would have been possible without someone who believed in me from the very first moment and saw my potential before I did. Forever grateful to this exceptional Leader 🫶 
-And equally grateful to the Head of CS Department in Athens Tech College. Sharp mind, sharper humor, clearest eyes in the room. Different people, the same rare quality. 
-They make you want to become better, just by being around them.
+🟣 None of the above would have been possible without the people who believed in me and gave me the chance to challenge myself. 
+I’m forever grateful to my employer and the trust placed in me.
+
+Mostly grateful to Odysseas, Head of the CS Department at Athens Tech College. Sharp mind, sharper humor, and eyes that shine with genuine kindness. 
+Fair and always encouraging. For all his knowledge and achievements, he is the humblest person I know and that says a lot about who he is. 
+Just being around Odysseas makes you want to become better and never give up.
 
 🟣 Grateful to my amazing team that steps up every time I step into a classroom!
 
