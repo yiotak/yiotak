@@ -10,11 +10,11 @@ The best thing you can do for the people around you
 is to never stop growing yourself.
 
 🟣 None of the above would have been possible without the people who believed in me and gave me the chance to challenge myself. 
-I’m forever grateful to my employer and the trust placed in me.
+    I’m forever grateful to my employer and the trust placed in me.
 
-🟣 Mostly grateful to Odysseas Efremides, Head of the CS Department at Athens Tech College. Sharp mind, sharper humor and eyes that shine with genuine kindness. 
-Fair and always encouraging. For all his knowledge and achievements, he is the humblest person I know and that says a lot about who he is. 
-Just being around Odysseas makes you want to become better and never give up.
+💜 Mostly grateful to Dr. Odysseas Efremides, Head of the CS Department at Athens Tech College. Sharp mind, sharper humor and eyes that shine with genuine kindness. 
+    Fair and always encouraging. For all his knowledge and achievements, he is the humblest person I know and that says a lot about who he is. 
+    Just being around Odysseas makes you want to become better and never give up.
 
 At the moment, I am not trying to become a developer.
 I'm here to learn. To grow. And all the knowledge I acquire, to give it all back to my team 🎉
